@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/stormcat24/protodep/dependency"
-	"github.com/stormcat24/protodep/helper"
-	"github.com/stormcat24/protodep/logger"
-	"github.com/stormcat24/protodep/repository"
+	"github.com/cryptogarageinc/protodep/dependency"
+	"github.com/cryptogarageinc/protodep/helper"
+	"github.com/cryptogarageinc/protodep/logger"
+	"github.com/cryptogarageinc/protodep/repository"
 )
 
 type protoResource struct {
